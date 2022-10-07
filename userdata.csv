@@ -1,0 +1,13 @@
+<?php 
+$name = $_POST["name"];
+$email = $_POST["email"];
+$date of birth = $_POST["date of birth"];
+$gender =$_POST["gender"];
+$country =$_POST["country"];
+
+echo "NAME: " .$name. "<br>";
+echo "EMAIL: " .$email. "<br>";
+echo "NAME: " .$date of birth. "<br>";
+echo "EMAIL: " .$gender. "<br>";
+echo "NAME: " .$country. "<br>";
+ ?>
